@@ -1,0 +1,17 @@
+[
+  {
+    "id": "164f8394-a304-4bdd-ba83-bd6ccf39d087",
+    "name": "Maja Thomsen",
+    "email": "maja.thomsen@example.com"
+  },
+  {
+    "id": "01e85fc7-9944-45a0-a114-b293e3a1a516",
+    "name": "Vidaúl Moraes",
+    "email": "vidaul.moraes@example.com"
+  },
+  {
+    "id": "33b5f65f-a28f-4055-b854-d3b547bba690",
+    "name": "Vanessa Perez",
+    "email": "vanessa.perez@example.com"
+  }
+]
