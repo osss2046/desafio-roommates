@@ -13,5 +13,15 @@
     "id": "33b5f65f-a28f-4055-b854-d3b547bba690",
     "name": "Vanessa Perez",
     "email": "vanessa.perez@example.com"
+  },
+  {
+    "id": "06abe218-afa8-4ac3-b130-d081731d9917",
+    "name": "Leo Rautio",
+    "email": "leo.rautio@example.com"
+  },
+  {
+    "id": "95e4e4ce-930a-43c0-beb2-01a2d84560b1",
+    "name": "Germán Caballero",
+    "email": "german.caballero@example.com"
   }
 ]
